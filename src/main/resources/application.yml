@@ -1,0 +1,5 @@
+aliyun:
+  oss:
+    access-key-id: foobar
+    access-key-secret: foobarfoobar
+    endpoint: oss-cn-beijing.aliyuncs.com
